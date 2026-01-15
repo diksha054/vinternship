@@ -28,7 +28,7 @@ order: 2
 Pinternship is organized by VLED Lab at the Indian Institute of Technology Ropar in online mode. It's a comprehensive full-stack development internship program focused on the MERN stack (MongoDB, Express.js, React, Node.js/TypeScript).
 
 **1.2 Is this internship time-bound or duration-based?**  
-The internship follows a structured timeline with specific milestones and deliverables. Please check the program schedule for details.
+The internship follows a structured timeline with specific milestones and deliverables. The maximum duration of the internship is 2.5 months.
 
 **1.3 What is the mode of this internship?**  
 The internship will be conducted in **online mode only**.
@@ -266,7 +266,14 @@ If you're facing profile picture issues, try these troubleshooting steps:
 - This may be due to your **data center being mapped to US instead of India**
 - Send an email with detailed issue description to: **support@zohocliq.com**
 
+**8.7 How do I join the Cliq channels with my college mail ID?**  
 
+Follow these steps to join the internship channels using your college email:
+
+1. **Create an account** on Zoho Cliq using your **COLLEGE MAIL ID**
+2. Access your **college mail inbox** and accept the request to join the **pinternship channels**
+
+Make sure to use your college email ID throughout the process to ensure proper access and identification.
 
 ---
 

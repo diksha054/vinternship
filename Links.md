@@ -3,6 +3,10 @@ layout: page
 title: Important links
 permalink: /link/
 links:
+    - label: "Dashboard Sheet"
+      url: "https://docs.google.com/spreadsheets/d/1J0U2-pzfBpfyY9-31lGgVB284gix8KkEeFTdT64qzAo/edit?usp=sharing"
+    - label: "HP Master sheet"
+      url: "https://docs.google.com/spreadsheets/d/1H3FVi3JFhw1qol7S7vdYIKzeYfKlGg84eby0psuoQPg/edit?usp=sharing"
     - label: "Activities Document"
       url: "https://writer.zoho.in/writer/open/tk5iv6abecfc364de41289e542b876c05f3e0"
     - label: "Milestones Document"
