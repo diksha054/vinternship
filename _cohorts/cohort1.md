@@ -24,5 +24,6 @@ This cohort focuses on building full-stack applications using the MERN stack.
 - Check announcements regularly for updates
 
 ## Forms and links
+- [Activity Completion Confirmation Form](https://forms.gle/7Gkyqfc72Pzrpg5d6){:target="_blank"}
 - [Case Study Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform){:target="_blank"}
 - [Endorsement Form](https://forms.gle/LpaNWG9SiYzshCsw8){:target="_blank"}
